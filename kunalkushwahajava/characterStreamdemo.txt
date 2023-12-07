@@ -1,0 +1,10 @@
+This is appended text
+file was written at 2 times 
+file was written at 3 times 
+file was written at 4 times 
+file was written at 5 times 
+file was written at 6 times 
+file was written at 7 times 
+file was written at 8 times 
+file was written at 9 times 
+file was written at 10 times 
