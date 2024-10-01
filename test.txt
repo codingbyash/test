@@ -3,3 +3,4 @@
 "changing the cont. of the file from newbranch"
 changing something in this branch
 changing again in the file
+again a change
