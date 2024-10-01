@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 "Added some content" 
 "Append this text to initial commit" 
-=======
 "changing the cont. of the file from newbranch"
->>>>>>> newbranch
+changing something in this branch
