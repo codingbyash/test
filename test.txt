@@ -2,3 +2,4 @@
 "Append this text to initial commit" 
 "changing the cont. of the file from newbranch"
 changing something in this branch
+changing again in the file
